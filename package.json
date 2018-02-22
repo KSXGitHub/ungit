@@ -55,7 +55,7 @@
     "signals": "~1.0.0",
     "snapsvg": "~0.5.1",
     "socket.io": "~2.0.3",
-    "superagent": "~3.5.2",
+    "superagent": "~3.7.0",
     "temp": "~0.8.3",
     "winston": "~2.3.1",
     "yargs": "~8.0.2"
