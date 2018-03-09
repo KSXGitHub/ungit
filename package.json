@@ -41,7 +41,7 @@
     "moment": "~2.19.3",
     "node-cache": "~4.1.1",
     "npm": "~4.6.1",
-    "npm-registry-client": "~8.4.0",
+    "npm-registry-client": "~8.5.1",
     "octicons": "~3.5.0",
     "open": "~0.0.5",
     "os-homedir": "~1.0.2",
